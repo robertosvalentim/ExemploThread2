@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thread Manual</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_aguarde">Aguarde enquanto a tarefa é executada.</string>
+    <string name="msg_tempo_restante">Tempo restante:</string>
+    <string name="title_activity_main">Thread Manual</string>
+    <string name="btn_tarefa_lenta">Clique para iniciar a tarefa</string>
+    <string name="msg_finalizado">Tarefa finalizada!</string>
+
+</resources>
